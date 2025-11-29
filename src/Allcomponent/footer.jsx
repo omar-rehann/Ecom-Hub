@@ -8,7 +8,7 @@ function Footer() {
 
         <div className="row">
           <div className="col-lg-4 footer-section">
-            <div className="footer-logo">Rehan Store</div>
+            <div className="footer-logo">Ecom Hub</div>
             <p className="footer-about">
               We are dedicated to providing the best service to our customers.
               Our mission is to create innovative solutions that make a difference

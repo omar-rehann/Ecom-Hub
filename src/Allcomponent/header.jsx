@@ -32,7 +32,7 @@ function Header() {
   <i class="fas fa-shopping-bag" style={{"font-size":" 26px","color": "#ff6f00;"}}></i>
   
   <span style={{"font-weight": "700" ,"font-size": "20px" ,"letter-spacing": "1px"}}>
-    Rehan Store
+    Ecom Hub
   </span>
 </a>
 
