@@ -1,6 +1,6 @@
 # 🛍️ Rehan Store – E-commerce Website
 
-**Rehan Store** is a complete E-commerce web application built using **React JS**.  
+**Ecom Hub** is a complete E-commerce web application built using **React JS**.  
 The project includes a modern UI, multiple product categories, and essential pages for a full online shopping experience.
 
 ---
