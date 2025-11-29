@@ -50,4 +50,5 @@ The store includes a wide range of products divided into several components:
 
 1. Clone the repository:
 ```bash
-git clone <project-link>
+git clone <https://github.com/omar-rehann/Ecom-Hub.git>
+Live Demo : https://omar-rehann.github.io/Ecom-Hub/
