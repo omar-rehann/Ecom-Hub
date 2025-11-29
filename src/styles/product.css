@@ -1,0 +1,24 @@
+.cards .name_card {
+    position: relative;
+    padding-bottom: 4px;
+}
+
+.cards .name_card::before {
+    content: "";
+    position: absolute;
+    width: 80%;
+    height: 2px;
+    background-color: #1e8dba;
+    bottom: 0px;
+    z-index: 2;
+}
+
+.cards .name_card::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #ddd;
+    bottom: 0px;
+    z-index: 1;
+}

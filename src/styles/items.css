@@ -1,0 +1,14 @@
+table {
+    margin-top: 10px;
+    text-align: center;
+}
+
+img {
+    width: 110px;
+}
+
+i.delete {
+    color: red;
+    cursor: pointer;
+    font-size: 20px;
+}

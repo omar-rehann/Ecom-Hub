@@ -1,0 +1,31 @@
+nav a img {
+    width: 40px;
+    margin: 10px 10px;
+}
+
+form.icon button {
+    padding: 3px;
+    border-radius: 10px;
+    position: relative;
+}
+
+form.icon i {
+    color: black;
+}
+
+form.icon button span {
+    color: red;
+    position: absolute;
+    top: -17px;
+    right: -11px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: solid 1px black;
+}

@@ -1,0 +1,39 @@
+.blog .image img {
+    transition: transform 0.4s ease;
+}
+
+.blog .image img:hover {
+    transform: scale(1.05);
+}
+
+.blog .text h3 {
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+}
+
+.blog .btn-primary {
+    background: #e63946;
+    border: none;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+
+.blog .btn-primary:hover {
+    background: #d00000;
+    transform: translateY(-2px);
+}
+
+
+/* Responsive */
+
+@media (max-width: 768px) {
+    .blog .background h1 {
+        font-size: 2rem;
+    }
+    .blog .row {
+        text-align: center;
+    }
+    .blog .text {
+        padding: 1rem !important;
+    }
+}

@@ -1,0 +1,22 @@
+.detials {
+    padding: 10px;
+}
+
+.image {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.image img {
+    cursor: pointer;
+    transition: 2s;
+    width: 100px;
+    margin: 10px 10px;
+}
+
+.image img:hover {
+    transform: scale(1.2);
+}
