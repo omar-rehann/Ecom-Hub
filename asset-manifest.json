@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ecom-Hub/static/css/main.8c44a06b.css",
-    "main.js": "/Ecom-Hub/static/js/main.153fe88a.js",
+    "main.css": "/Ecom-Hub/static/css/main.24c7b18a.css",
+    "main.js": "/Ecom-Hub/static/js/main.3ebb2014.js",
     "static/media/shoes3.png": "/Ecom-Hub/static/media/shoes3.66ffc4929b74c68f45ea.png",
     "static/media/shoes6.png": "/Ecom-Hub/static/media/shoes6.225eb1d82fc53c8fb6ee.png",
     "static/media/shoes1.png": "/Ecom-Hub/static/media/shoes1.b01ead11647fac603b46.png",
@@ -110,11 +110,11 @@
     "static/media/tt1.webp": "/Ecom-Hub/static/media/tt1.2980abc9bfb29b857fb3.webp",
     "static/media/m5.webp": "/Ecom-Hub/static/media/m5.b45e8b5afa7636ea0573.webp",
     "index.html": "/Ecom-Hub/index.html",
-    "main.8c44a06b.css.map": "/Ecom-Hub/static/css/main.8c44a06b.css.map",
-    "main.153fe88a.js.map": "/Ecom-Hub/static/js/main.153fe88a.js.map"
+    "main.24c7b18a.css.map": "/Ecom-Hub/static/css/main.24c7b18a.css.map",
+    "main.3ebb2014.js.map": "/Ecom-Hub/static/js/main.3ebb2014.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c44a06b.css",
-    "static/js/main.153fe88a.js"
+    "static/css/main.24c7b18a.css",
+    "static/js/main.3ebb2014.js"
   ]
 }
