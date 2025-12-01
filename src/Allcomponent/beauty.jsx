@@ -26,7 +26,7 @@ function Beauty() {
       <div className="row g-4">
 
         {/* 1 - Hydrating Mask */}
-        <div className="col-6 col-md-4 col-lg-3">
+        <div className="col-md-6 col-md-4 col-lg-3">
           <Structure
             img={p11}
             name_product="Hyaluronic Acid Hydrating Mask"
@@ -38,7 +38,7 @@ function Beauty() {
         </div>
 
         {/* 2 - Clay Purifying Mask */}
-        <div className="col-6 col-md-4 col-lg-3">
+        <div className="col-md-6 col-md-4 col-lg-3">
           <Structure
             img={p12}
             name_product="Green Clay Detox Mask"
@@ -50,7 +50,7 @@ function Beauty() {
         </div>
 
         {/* 3 - Vitamin C Glow Mask */}
-        <div className="col-6 col-md-4 col-lg-3">
+        <div className="col-md-6 col-md-4 col-lg-3">
           <Structure
             img={p13}
             name_product="Vitamin C Brightening Mask"
@@ -62,7 +62,7 @@ function Beauty() {
         </div>
 
         {/* 4 - Collagen Anti-Aging Mask */}
-        <div className="col-6 col-md-4 col-lg-3">
+        <div className="col-md-6 col-md-4 col-lg-3">
           <Structure
             img={p14}
             name_product="Collagen Firming Gold Mask"
@@ -74,7 +74,7 @@ function Beauty() {
         </div>
 
         {/* 5 - Charcoal Black Mask */}
-        <div className="col-6 col-md-4 col-lg-3">
+        <div className="col-md-6 col-md-4 col-lg-3">
           <Structure
             img={p15}
             name_product="Activated Charcoal Peel-Off Mask"
@@ -86,7 +86,7 @@ function Beauty() {
         </div>
 
         {/* 6 - Soothing Aloe Vera Mask */}
-        <div className="col-6 col-md-4 col-lg-3">
+        <div className="col-md-6 col-md-4 col-lg-3">
           <Structure
             img={p16}
             name_product="Aloe Vera Calming Mask"

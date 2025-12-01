@@ -30,7 +30,7 @@ function Shoes() {
       <div className="row">
 
         {/* Shoe 1 */}
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f1}
             name_product="Black Leather Oxford Cap-Toe"
@@ -42,7 +42,7 @@ function Shoes() {
         </div>
 
         {/* Shoe 2 */}
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f2}
             name_product="Tan Suede Chelsea Boots"
@@ -54,7 +54,7 @@ function Shoes() {
         </div>
 
         {/* Shoe 3 */}
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f3}
             name_product="White Minimal Leather Sneakers"
@@ -66,7 +66,7 @@ function Shoes() {
         </div>
 
         {/* Shoe 4 */}
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f4}
             name_product="Brown Double Monk Strap"
@@ -78,7 +78,7 @@ function Shoes() {
         </div>
 
         {/* Shoe 5 */}
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f5}
             name_product="Navy Knit Performance Sneakers"
@@ -90,7 +90,7 @@ function Shoes() {
         </div>
 
         {/* Shoe 6 */}
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f6}
             name_product="Dark Brown Combat Boots"
@@ -102,7 +102,7 @@ function Shoes() {
         </div>
 
         {/* Shoe 7 */}
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f7}
             name_product="Black Patent Leather Loafers"

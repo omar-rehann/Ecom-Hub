@@ -39,7 +39,7 @@ function Shirts() {
 
        
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f2}
             name_product="Deep Navy Mandarin Shirt"
@@ -50,7 +50,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f3}
             name_product="Midnight Black Satin Shirt"
@@ -61,7 +61,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f4}
             name_product="Stone Grey Flannel Shirt"
@@ -72,7 +72,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f5}
             name_product="Sky Blue Pin Stripe Shirt"
@@ -83,7 +83,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f6}
             name_product="Sand Beige Pure Linen Shirt"
@@ -94,7 +94,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f7}
             name_product="Charcoal Hidden Placket Shirt"
@@ -105,7 +105,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f8}
             name_product="Dusty Rose Silk-Blend Shirt"
@@ -116,7 +116,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={n1}
             name_product="Olive Green Military Shirt"
@@ -127,7 +127,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={n2}
             name_product="Burgundy Velvet Touch Shirt"
@@ -138,7 +138,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={n3}
             name_product="Cream Cuban Collar Shirt"
@@ -149,7 +149,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={n4}
             name_product="Teal Blue Denim Shirt"
@@ -160,7 +160,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={n5}
             name_product="Mustard Yellow Oxford Shirt"
@@ -171,7 +171,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={n6}
             name_product="Mocha Brown Check Shirt"
@@ -182,7 +182,7 @@ function Shirts() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={n7}
             name_product="Royal Purple Dress Shirt"

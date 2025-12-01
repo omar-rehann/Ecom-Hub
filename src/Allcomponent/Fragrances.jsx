@@ -34,7 +34,7 @@ function Fragrances() {
       {/* Products Grid */}
       <div className="row">
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f1}
             name_product="Creed Aventus 100ml EDP"
@@ -45,7 +45,7 @@ function Fragrances() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f2}
             name_product="Dior Sauvage Elixir 60ml"
@@ -56,7 +56,7 @@ function Fragrances() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f3}
             name_product="Tom Ford Oud Wood 100ml"
@@ -67,7 +67,7 @@ function Fragrances() {
           />
         </div>
 
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f4}
             name_product="MFK Baccarat Rouge 540 Extrait 70ml"
@@ -78,7 +78,7 @@ function Fragrances() {
           />
         </div>
         
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f5}
             name_product="MFK Baccarat Rouge 540 Extrait 70ml"
@@ -88,7 +88,7 @@ function Fragrances() {
             delete={19500}
           />
         </div>
-          <div className="col-6 col-md-3 mb-4">
+          <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f6}
             name_product="MFK Baccarat Rouge 540 Extrait 70ml"
@@ -98,7 +98,7 @@ function Fragrances() {
             delete={19500}
           />
         </div>
-        <div className="col-6 col-md-3 mb-4">
+        <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f7}
             name_product="MFK Baccarat Rouge 540 Extrait 70ml"
@@ -108,7 +108,7 @@ function Fragrances() {
             delete={19500}
           />
         </div>
-         <div className="col-6 col-md-3 mb-4">
+         <div className="col-md-6 col-md-3 mb-4">
           <Structure
             img={f8}
             name_product="MFK Baccarat Rouge 540 Extrait 70ml"
